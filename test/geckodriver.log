@@ -1,0 +1,23 @@
+1666197125503	geckodriver	INFO	Listening on 127.0.0.1:59617
+1666197128627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KAUSTU~1.GAR\\AppData\\Local\\Temp\\rust_mozprofileOy0EeW"
+1666197169733	geckodriver	INFO	Listening on 127.0.0.1:59802
+1666197172798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KAUSTU~1.GAR\\AppData\\Local\\Temp\\rust_mozprofileVCAlTV"
+1666197173148	Marionette	INFO	Marionette enabled
+1666197173152	Marionette	INFO	Listening on port 59814
+Read port: 59814
+1666197173477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAUSTU~1.GAR\\AppData\\Local\\Temp\\rust_mozprofileVCAlTV\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 6680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1666198348312	Marionette	INFO	Stopped listening on port 59814
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666198584634	geckodriver	INFO	Listening on 127.0.0.1:60067
+1666198587779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KAUSTU~1.GAR\\AppData\\Local\\Temp\\rust_mozprofileW3wIIu"
+1666198588124	Marionette	INFO	Marionette enabled
+1666198588128	Marionette	INFO	Listening on port 60079
+Read port: 60079
+1666198588566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KAUSTU~1.GAR\\AppData\\Local\\Temp\\rust_mozprofileW3wIIu\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gGH5MXBYpKK8b4jYkKtywiBl7RPPQJG6QKYwKihakJE.js line 2 > eval line 2375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666198615176	Marionette	INFO	Stopped listening on port 60079
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
