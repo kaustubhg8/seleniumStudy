@@ -11,5 +11,6 @@ def trial1():
         time.sleep(10)
         i=i+1
         print(i)
+        print ("hello")
 
 trial1()
